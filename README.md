@@ -1,2 +1,2 @@
 # Smart-Speaking-Glove
-A glove that facilitates easier means of communication between speech impaired people and normal people. 
+A gesture-to-speech translation system using wearable gloves equipped with sensors and a microcontroller platform. 
